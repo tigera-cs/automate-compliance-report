@@ -1,0 +1,8 @@
+apiVersion: projectcalico.org/v3
+kind: GlobalReport
+metadata:
+  name: daily-cluster-network-access
+spec:
+  reportType: network-access
+  schedule: "0 0 * * *"
+

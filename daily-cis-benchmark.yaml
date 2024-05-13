@@ -1,0 +1,8 @@
+apiVersion: projectcalico.org/v3
+kind: GlobalReport
+metadata:
+  name: daily-cluster-cis-benchmark
+spec:
+  reportType: cis-benchmark
+  schedule: "0 0 * * *"
+
