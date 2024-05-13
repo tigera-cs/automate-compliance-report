@@ -31,8 +31,7 @@ spec:
           # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         - name: TIGERA_COMPLIANCE_REPORT_START_TIME
           value: 2024-05-13T19:39:01Z
-          
-          
+                    
         - name: TIGERA_COMPLIANCE_REPORT_END_TIME
           value: 2024-05-13T19:47:01Z
           
